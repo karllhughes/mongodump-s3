@@ -12,7 +12,7 @@ docker run -it --rm \
   -e "AWS_DEFAULT_REGION=..." \
   -e "S3_BUCKET=..." \
   -e "MAX_BACKUPS=..." \
-  karllhughes/news-backup
+  karllhughes/mongodump-s3
 ```
 
 ## License
